@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 14 [Live Link](#)
+## Project 14 [Live Link](https://live-proj-14.netlify.app)
 
 -   Skills Gained in this project
     -   Since this project is heavily based on positioning,
